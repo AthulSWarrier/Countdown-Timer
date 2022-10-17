@@ -1,3 +1,3 @@
 # Countdown-Timer
-A simple countdown timer\n
-Pls run on windows
+ *A simple countdown timer*
+ *Pls run on windows*
